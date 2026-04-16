@@ -1,4 +1,4 @@
-# SmartCampus Management System (AJ1 Edition)
+# SmartCampus Management System (AJ1)
 
 Project Overview
 The **SmartCampus Management System** is a Java-based application designed to streamline the administration of students and course enrollments. This project was developed as a final assessment to demonstrate proficiency in core Java concepts, including Object-Oriented Programming (OOP), Collections, Exception Handling, Multithreading, and File I/O.
