@@ -3,6 +3,13 @@
 Project Overview
 The **SmartCampus Management System** is a Java-based application designed to streamline the administration of students and course enrollments. This project was developed as a final assessment to demonstrate proficiency in core Java concepts, including Object-Oriented Programming (OOP), Collections, Exception Handling, Multithreading, and File I/O.
 
+## 📄 Project Metadata
+* **Owner Name:** Ankit Jaiswal
+* **Student ID:** 24665119
+* **Repository Name:** aj1gnc-java-final-assessment-smartcampus
+* **Submission Date:** April 16, 2026
+* **Development Environment:** VS Code with Java Extension Pack
+
 Key Features
 - **Permanent Data Persistence**: Uses **Object Serialization** to save the entire system state (Students, Courses, and Enrollments) 
 - **Unique Search Engine**: A custom-built search feature that allows administrators to find students by partial name matches.
